@@ -1,5 +1,5 @@
 <img align="right" height="450em" src="https://raw.githubusercontent.com/gist/Majumendes/3adb4aea663b252534cd8654491a9bac/raw/de5872301737ee8a237d3554a6d3dfdbc8c2adca/githubcard.svg"/>
-<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou a Maju </h1>
+<h1 align="left"> Olá 😸 eu sou a Maju </h1>
 
 - 🧠 Estudante de Análise e Desenvolvimento de Sistemas 
 
