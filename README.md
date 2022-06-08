@@ -27,7 +27,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Majumendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="423em" src="https://github-readme-stats.vercel.app/api?username=Majumendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img width="419em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majumendes&layout=compact&langs_count=7&theme=tokyonight" alt="Majumendes's most languages"/>
 </div>
 
