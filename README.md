@@ -1,11 +1,10 @@
-<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/Majumendes/3adb4aea663b252534cd8654491a9bac/raw/de5872301737ee8a237d3554a6d3dfdbc8c2adca/githubcard.svg"/>
 <h1 align="left"> Olá 😸 eu sou a Maju </h1>
 
-- 🧠 Estudante de Análise e Desenvolvimento de Sistemas 
+- 🧠 Estudante de Análise e Desenvolvimento de Sistemas e Design
 
      <img aligh="right"  height="130em"   src="https://camo.githubusercontent.com/6a52cf8c4b410cdd649e607028bb0587c6bdeb126ade8d3b7e12ac7dc2235014/68747470733a2f2f692e67697068792e636f6d2f6d656469612f53335065354e5a71676d4538546c334e49352f67697068792d646f776e73697a65642d6c617267652e676966">
                                                              
-- 👨🏻‍💻 Foco em Front-end
+- 🚀 Foco em Design UI/UX
 
 - 🦄 Pronomes: Ela/elu/ele
 
